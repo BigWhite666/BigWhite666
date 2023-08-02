@@ -66,16 +66,6 @@
 <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    Uworld-->PersistentLevel(0x30)-->AActor(0x98);
-    Uworld-->PersistentLevel(0x30)-->Count(0xA0);
-    Uworld-->GameInstance(0x180)-->LocalPlayers(0x38)-->[0] LocalPlayers(0x0)-->PlayerController(0x30)-->AcknowledgedPawn(0x2B0)-->RootComponent(0x140);
-   ```
-
 #### 欢迎您的到来 :heart:
 
 <p align="center"> 
