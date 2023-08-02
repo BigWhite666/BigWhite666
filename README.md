@@ -43,13 +43,10 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![BigWhite666's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BigWhite666&theme=github-compact)](https://github.com/BigWhite666/github-readme-activity-graph)
-
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![BigWhite666's github stats](https://github-readme-stats.vercel.app/api?username=BigWhite666&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BigWhite666&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BigWhite666"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -61,9 +58,6 @@
 <a href="https://skyline.github.com/BigWhite666/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BigWhite666" width="auto"></img>
-
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BigWhite666/BigWhite666/master/assets/twitter.svg" alt="BigWhite666" height="30" width="30" /></a>
@@ -72,18 +66,8 @@
 <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BigWhite666" alt="BigWhite666" /></a>
-</p>
-
-
-
-
-   <!--machine-learning-->
+   <!--UE4-->
 ```mermaid
 graph TD;
     machine-learning-->Data;
@@ -93,71 +77,6 @@ graph TD;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
    ```
-   
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-
-
-<!-- Belarus - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
-
-
-
-
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-</p>
-
-
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
@@ -179,20 +98,5 @@ counting of visitors to this page in this section started from June 12, 2022
 ![](https://count.getloli.com/get/@BigWhite666.github.readme)
 </br>
 
-[MIT](LICENSE)
-
-
-</p>
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
 
 ![](assets/Bottom_down.svg)
