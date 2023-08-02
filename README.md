@@ -79,11 +79,11 @@ graph TD;
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/BigWhite666/count.svg">  
 
+<!--   GitHub stats graph 
 ## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=BigWhite666/BigWhite666&type=Date)](https://star-history.com/#BigWhite666/BigWhite666&Date)
 
-```[![Star History Chart](https://api.star-history.com/svg?repos=BigWhite666/BigWhite666&type=Date)](https://star-history.com/#BigWhite666/BigWhite666&Date)
-
-
+-->
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
