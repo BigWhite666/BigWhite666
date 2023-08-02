@@ -48,15 +48,7 @@
 | ![BigWhite666's github stats](https://github-readme-stats.vercel.app/api?username=BigWhite666&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BigWhite666&theme=radical&layout=compact) |
 
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/BigWhite666/BigWhite666/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/BigWhite666/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
 
 **📫 How to Reach me:**
 <p align="left">
