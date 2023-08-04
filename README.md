@@ -50,12 +50,9 @@
 
 
 
-**📫 How to Reach me:**
+**📫 交流群:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BigWhite666/BigWhite666/master/assets/twitter.svg" alt="BigWhite666" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BigWhite666/BigWhite666/master/assets/linkedin.svg" alt="BigWhite666" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BigWhite666/BigWhite666/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://t.me/BigWhiteEsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/BigWhite666/BigWhite666/master/assets/telegram.svg" alt="BigWhite666" height="30" width="30" /></a>
 </p>
 
 #### 当前访问量 :heart:
