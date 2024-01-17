@@ -40,7 +40,8 @@
 
 **📫 交流群:**
 <p align="left">
-<a href="https://t.me/BigWhiteEsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/BigWhite666/BigWhite666/master/assets/telegram.svg" alt="BigWhite666" height="30" width="30" /></a>
+    
+<a href="https://t.me/BigWhiteChat" target="blank"><img align="center" src="https://raw.githubusercontent.com/BigWhite666/BigWhite666/master/assets/telegram.svg" alt="BigWhite666" height="30" width="30" /></a>
 </p>
 
 #### 当前访问量 :heart:
